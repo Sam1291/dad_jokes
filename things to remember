@@ -1,0 +1,7 @@
+align-item:it is used to align the items on the perpendicular of the main axis of the flex-container. 
+for example, if the flex container has a "flex-direction" set to row then the align-items will control the vertical alignment of the container.
+justify-content:  used to control the alignment of the items on the main axis. 
+padding: distance/space btw content and its container
+box-shadow: x axis, y axis, blurness, color
+vh vs height:100% vh is view port heigh and 100% is takes 100% of the parent's height
+text-shadow has the same parameters as box-shadow
